@@ -1,0 +1,26 @@
+{
+	"env": {
+		"browser": true,
+		"commonjs": true,
+		"es2021": true,
+		"node": true
+	},
+	"extends": [
+		"google"
+	],
+	"parserOptions": {
+		"sourceType": "module",
+		"ecmaVersion": 12
+	},
+	"rules": {
+		"semi": "off",
+		"arrow-parens": "off",
+		"linebreak-style": "off",
+		"object-curly-spacing": "off",
+		"indent": "off",
+		"no-tabs": "off",
+		"comma-dangle": "off",
+		"require-jsdoc": "off",
+		"no-unused-vars": "off"
+	}
+}
