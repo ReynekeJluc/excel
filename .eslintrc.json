@@ -21,6 +21,7 @@
 		"no-tabs": "off",
 		"comma-dangle": "off",
 		"require-jsdoc": "off",
-		"no-unused-vars": "off"
+		"no-unused-vars": "off",
+		"quotes": "off"
 	}
 }
